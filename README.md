@@ -1,6 +1,6 @@
 # tiny-invariant 🔬💥
 
-(this is a modified version! it shows the error even in production, and should only be used if you dont know wtf is going wrong)
+(this is a modified version! it shows the error even in production, and should only be used if you dont know wtf is going wrong-)
 
 [![Build Status](https://travis-ci.org/alexreardon/tiny-invariant.svg?branch=master)](https://travis-ci.org/alexreardon/tiny-invariant)
 [![npm](https://img.shields.io/npm/v/tiny-invariant.svg)](https://www.npmjs.com/package/tiny-invariant) [![dependencies](https://david-dm.org/alexreardon/tiny-invariant.svg)](https://david-dm.org/alexreardon/tiny-invariant)
